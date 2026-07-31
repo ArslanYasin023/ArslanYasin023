@@ -18,7 +18,7 @@ I'm a web developer passionate about building clean, functional, and scalable we
 `Git` `GitHub` `VS Code` `Postman`
 
 **Programming Languages:**
-`C++` `C` `Python` 
+`C++` `C` `Python` `JavaScript`
 
 ## Current Projects
 - 🔨 Working on: Nothing at the moment

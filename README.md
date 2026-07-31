@@ -18,12 +18,12 @@ I'm a web developer passionate about building clean, functional, and scalable we
 `Git` `GitHub` `VS Code`
 
 ## Current Projects
-- 🔨 Working on: []
+- 🔨 Working on: Nothing at the moment
 - 📚 Learning: Python
 - 🌱 Exploring: Cloud and Machine Learning 
 
 ## Contact Me
-- 💼 LinkedIn: [linkedin.com/in/your-profile]
+- 💼 LinkedIn:
 - 📫 Email: arsalanyasin02@gmail.com
 
 ⭐️ Thanks for stopping by!

@@ -24,6 +24,6 @@ I'm a web developer passionate about building clean, functional, and scalable we
 
 ## Contact Me
 - 💼 LinkedIn:
-- 📫 Email: arsalanyasin02@gmail.com
+- 📫 Email: arsalanyasin2004@gmail.com
 
 ⭐️ Thanks for stopping by!

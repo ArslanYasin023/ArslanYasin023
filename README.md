@@ -15,7 +15,10 @@ I'm a web developer passionate about building clean, functional, and scalable we
 `Microsoft SSMS` `MongoDB`
 
 **Tools & Platforms:**
-`Git` `GitHub` `VS Code`
+`Git` `GitHub` `VS Code` `Postman`
+
+**Programming Languages:**
+`C++` `C` `Python` 
 
 ## Current Projects
 - 🔨 Working on: Nothing at the moment

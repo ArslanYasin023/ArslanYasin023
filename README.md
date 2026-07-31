@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Arslan Yasin 👋
 
-<!--
-**ArslanYasin023/ArslanYasin023** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a web developer passionate about building clean, functional, and scalable web applications. I focus on writing efficient, maintainable code and creating products that balance performance with usability. My long-term goal is to grow into a full-stack/senior developer role, contribute to open-source projects, build products that solve real-world problems. I'm always looking to sharpen my skills. (Give job plz)
 
-Here are some ideas to get you started:
+## Skills & Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Frontend:**
+`HTML` `CSS` `JavaScript` `React`
+
+**Backend:**
+`Node.js` `Python` `Express`
+
+**Databases:**
+`Microsoft SSMS` `MongoDB`
+
+**Tools & Platforms:**
+`Git` `GitHub` `VS Code`
+
+## Current Projects
+- 🔨 Working on: []
+- 📚 Learning: Python
+- 🌱 Exploring: Cloud and Machine Learning 
+
+## Contact Me
+- 💼 LinkedIn: [linkedin.com/in/your-profile]
+- 📫 Email: arsalanyasin02@gmail.com
+
+⭐️ Thanks for stopping by!
